@@ -73,9 +73,9 @@ The game follows these basic steps:
 ```text
 javascript-simon-says/
 │
-├── index.html
-├── style.css
-├── script.js
+├── simon.html
+├── simon.css
+├── simon.js
 └── README.md
 ```
 
